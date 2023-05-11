@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Tree Generator/Parametric System/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
