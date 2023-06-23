@@ -3,4 +3,4 @@ An application in Unity Engine and C#, to generate realistic 3d models of trees,
 
 ### Getting Starting <br>
 1 Install Unity version 2021.3.26f1<br>
-2 Open the scene found in Assets/Scenes/Main<br>
+2 Open the scene found in Assets/Tree Generator/Parametric System/Scenes/Main<br>
